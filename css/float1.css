@@ -1,0 +1,17 @@
+img {
+  float: center;
+}
+.sidebar {
+        width: 100%;
+        float: left;
+        background-color: olive;
+      }
+
+body{
+	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/a3/49/ff/a349ffb0e9cf5223117cc83eebb14b1b.jpg);
+	background: rgb(54, 25, 25);
+}
+
+p {
+	font-weight: bolder;
+}
