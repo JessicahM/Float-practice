@@ -1,19 +1,25 @@
 .sidebar {
-        width: 100%;
+        width: 98%;
         float: left;
-        margin: 12px;
-        border: 2px;
-        padding: 4px;
+        margin-top: 12px;
+        margin-bottom: 12px;
+        margin-left: 12px;
+        margin-right: 12px;
         background-color: olive;
+        display: inline;
+
+
       }
 
 body{
 	background-image: url(https://s-media-cache-ak0.pinimg.com/236x/a3/49/ff/a349ffb0e9cf5223117cc83eebb14b1b.jpg);
 	background: rgb(54, 25, 25);
+  color: white;
 }
 
 p {
 	font-weight: bolder;
+  text-indent: 10px;
 }
 
 .right {
